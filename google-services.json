@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665103880194",
+    "firebase_url": "https://firstreactconn.firebaseio.com",
+    "project_id": "firstreactconn",
+    "storage_bucket": "firstreactconn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665103880194:android:7341d090c852c24a9f971b",
+        "android_client_info": {
+          "package_name": "com.proativa.guia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665103880194-03t9ji1861ild1csg7jkvjd0c4j12tim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjfdm_ayxGaRezOAZ3cw4gJfnGlv_-4Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665103880194-03t9ji1861ild1csg7jkvjd0c4j12tim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
