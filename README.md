@@ -7,7 +7,7 @@
 
 Ecoleta is a marketplace platform that helps people find collection points for recyclable materials efficiently. This project was developed for the **International Environment Week** during the [Next Level Week](https://nextlevelweek.com) 1.0 by [@rocketseat](https://github.com/rocketseat). Ecoleta takes the pain out recycling waste by connecting people with collection points, see more:
 
-- Booster [Ecoleta API](https://github.com/tecanderson/NLW-01-Ecoleta-api).
+- Booster [Ecoleta API](https://github.com/tecanderson/NLW-01-Ecoleta-Backend).
 - Booster [Ecoleta Web](https://github.com/tecanderson/NLW-01-Ecoleta-web).
 - Starter and Booster designs are available at [Figma](https://www.figma.com/file/RdlEdkUng704Q0OyIHjSGi/Ecoleta).
 
